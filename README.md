@@ -72,10 +72,12 @@ O programa irá buscar todos os arquivos com extensão `.pgm` no diretório `ass
 
 Exemplo de imagens processadas:
 
-- Imagem original:
+- **Imagem original:**
+
 ![Imagem Original](.github/einstein_original.png)
 
-- Imagem filtrada: `src/filtered_images/einstein_modified.pgm`
+- **Imagem filtrada:**
+
 ![Imagem Filtrada](.github/einstein_tratado.png)
 
 Comparando as imagens, é possível observar que os ruídos foram significativamente reduzidos enquanto as bordas e os detalhes principais da imagem foram preservados.
